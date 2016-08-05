@@ -1,4 +1,15 @@
 p{
+	clear:both;
+	margin:50px;
 	background-color:orange;
 	color:blue; 
+}
+li{
+	float:left;
+	width: 50px;
+	list-style-type:none;
+}
+
+a{
+	text-decoration:none;
 }
