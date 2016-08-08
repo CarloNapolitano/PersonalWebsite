@@ -1,7 +1,7 @@
 body{
 	background-image:url('../Images/backgroundimage.jpg');
-	background-size:100% 100%;
-	Background-repeat:no-repeat;
+	background-size:1300px 1000px;
+	background-repeat:no-repeat;
 }
 header{
 
@@ -27,15 +27,18 @@ li{
 a{
 	text-decoration:none;
 }
+#imgdiv{
+	width:400px;
+	margin:auto;
+}
+img{
+	width:300px;
+	height:300px;
+}
 div{
 	width:950px;
 	margin:auto;
 	margin-top:10px;
-}
-img{
-	float:left;
-	width:300px;
-	height:300px;
 }
 .firstp{
 	color:#FFD700;

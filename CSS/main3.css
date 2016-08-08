@@ -3,6 +3,9 @@ body{
 	background-size:1300px 1000px;
 	background-repeat:no-repeat;
 }
+header{
+
+}
 nav{
   padding-left:45px;
 	margin:0 auto;
@@ -30,26 +33,39 @@ div{
 	margin-top:10px;
 }
 img{
-  margin-left:60px;
-  margin-bottom:40px;
 	float:left;
-	width:75px;
-	height:75px;
+	width:300px;
+	height:300px;
 }
 .firstp{
-  text-align:center;
 	color:#FFD700;
-	margin:50px;
-	font-size:22px;
+	margin:auto;
+	font-size:25px;
 }
+.secondp{ 
+	color:#FFD700;
+	margin:auto;
+	font-size:25px;
+}
+.secondli{
+	width:400px;
+	height:30px;
+	clear:both;
+	float:left;
+}
+.thirdp{ 
+	color:#FFD700;
+	margin:auto;
+	font-size:25px;
+}
+
 footer{
-  clear:both;
+	clear:both;
 	width:950px;
 	margin:auto;
 	background-color:gray;
 }
-.secondp{
-  clear:both;
+.fourthp{
 	margin:auto;
 	width:950px;
 	font-size:22px;
