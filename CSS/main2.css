@@ -1,10 +1,7 @@
 body{
 	background-image:url('../Images/backgroundimage.jpg');
 	background-size:100% 100%;
-	Background-repeat:no-repeat;
-}
-header{
-
+	background-repeat:no-repeat;
 }
 nav{
   padding-left:45px;
@@ -33,22 +30,26 @@ div{
 	margin-top:10px;
 }
 img{
+  margin-left:60px;
+  margin-bottom:40px;
 	float:left;
-	width:300px;
-	height:300px;
+	width:75px;
+	height:75px;
 }
 .firstp{
+  text-align:center;
 	color:#FFD700;
-	margin:auto;
-	font-size:25px;
+	margin:50px;
+	font-size:22px;
 }
-
 footer{
+  clear:both;
 	width:950px;
 	margin:auto;
 	background-color:gray;
 }
 .secondp{
+  clear:both;
 	margin:auto;
 	width:950px;
 	font-size:22px;
